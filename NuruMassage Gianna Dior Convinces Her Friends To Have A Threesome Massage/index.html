@@ -1,0 +1,36 @@
+<div class="fluid-video-container">
+    <video id="video-player" muted controls>
+        <source src="https://cdn77-vid-mp4.xvideos-cdn.com/9GQ6qIcIsXEjfiDKoke28w==,1726338310/videos/mp4/0/1/6/xvideos.com_016d74633ddc317fba5c34dd611875db.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div>
+
+<script src="https://cdn.fluidplayer.com/v3/current/fluidplayer.min.js"></script>
+<script>
+    var player = fluidPlayer('video-player', {
+        layoutControls: {
+            autoPlay: true,  
+            mute: true,  
+            controlBar: {
+                autoHideTimeout: 0,
+                animated: true,
+                autoHide: true
+            },
+            fillToContainer: true,  
+        },
+        vastOptions: {
+            vastTag: '//s.pornoshub.site/api/spots/480426?v2=1&s1=%subid1%&kw=',  
+            adList: [
+                {
+                    roll: 'preRoll',  // Pre-roll ad
+                    vastTag: '//s.pornoshub.site/api/spots/480426?v2=1&s1=%subid1%&kw=',
+                    adText: 'Your Ad will start soon',
+                    skipButtonCaption: 'Skip Ad in [seconds]',
+                    skipButtonClickCaption: 'Skip Ad'
+                }
+            ]
+        }
+    });
+</script>
+</body>
+</html>
