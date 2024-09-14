@@ -1,144 +1,60 @@
-
-<?xml version="1.0" encoding="UTF-8"?>
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
 <VAST version="3.0">
-  <Ad id="89363">
-    <Wrapper>
-      <AdSystem version="3.0">AdSpyglass</AdSystem>
-      <VASTAdTagURI><![CDATA[//s.pornoshub.site/api/users/15434947049357598011/89363]]></VASTAdTagURI>
-      <Extensions>
-        <Extension type="ASG">
-          <subid1></subid1>
-          <subid2></subid2>
-          <userReferrerCode>75494</userReferrerCode>
-          <zIndex>1000</zIndex>
-        </Extension>
-      </Extensions>
-    </Wrapper>
-  </Ad>
-  <Ad id="77180">
-    <Wrapper>
-      <AdSystem version="3.0">AdSpyglass</AdSystem>
-      <VASTAdTagURI><![CDATA[//s.pornoshub.site/api/users/15434947049357598011/77180]]></VASTAdTagURI>
-      <Extensions>
-        <Extension type="ASG">
-          <subid1></subid1>
-          <subid2></subid2>
-          <userReferrerCode>75494</userReferrerCode>
-          <zIndex>1000</zIndex>
-        </Extension>
-      </Extensions>
-    </Wrapper>
-  </Ad>
-  <Ad id="1005087">
-    <Wrapper>
-      <AdSystem version="3.0">AdSpyglass</AdSystem>
-      <VASTAdTagURI><![CDATA[//s.pornoshub.site/api/users/15434947049357598011/1005087]]></VASTAdTagURI>
-      <Extensions>
-        <Extension type="ASG">
-          <subid1></subid1>
-          <subid2></subid2>
-          <userReferrerCode>75494</userReferrerCode>
-          <zIndex>1000</zIndex>
-        </Extension>
-      </Extensions>
-    </Wrapper>
-  </Ad>
-  <Ad id="77631">
-    <Wrapper>
-      <AdSystem version="3.0">AdSpyglass</AdSystem>
-      <VASTAdTagURI><![CDATA[//s.pornoshub.site/api/users/15434947049357598011/77631]]></VASTAdTagURI>
-      <Extensions>
-        <Extension type="ASG">
-          <subid1></subid1>
-          <subid2></subid2>
-          <userReferrerCode>75494</userReferrerCode>
-          <zIndex>1000</zIndex>
-        </Extension>
-      </Extensions>
-    </Wrapper>
-  </Ad>
-  <Ad id="89363">
-    <Wrapper>
-      <AdSystem version="3.0">AdSpyglass</AdSystem>
-      <VASTAdTagURI><![CDATA[//s.pornoshub.site/api/users/15434947049357598011/89363]]></VASTAdTagURI>
-      <Extensions>
-        <Extension type="ASG">
-          <subid1></subid1>
-          <subid2></subid2>
-          <userReferrerCode>75494</userReferrerCode>
-          <zIndex>1000</zIndex>
-        </Extension>
-      </Extensions>
-    </Wrapper>
-  </Ad>
-  <Ad id="77180">
-    <Wrapper>
-      <AdSystem version="3.0">AdSpyglass</AdSystem>
-      <VASTAdTagURI><![CDATA[//s.pornoshub.site/api/users/15434947049357598011/77180]]></VASTAdTagURI>
-      <Extensions>
-        <Extension type="ASG">
-          <subid1></subid1>
-          <subid2></subid2>
-          <userReferrerCode>75494</userReferrerCode>
-          <zIndex>1000</zIndex>
-        </Extension>
-      </Extensions>
-    </Wrapper>
-  </Ad>
-  <Ad id="1005087">
-    <Wrapper>
-      <AdSystem version="3.0">AdSpyglass</AdSystem>
-      <VASTAdTagURI><![CDATA[//s.pornoshub.site/api/users/15434947049357598011/1005087]]></VASTAdTagURI>
-      <Extensions>
-        <Extension type="ASG">
-          <subid1></subid1>
-          <subid2></subid2>
-          <userReferrerCode>75494</userReferrerCode>
-          <zIndex>1000</zIndex>
-        </Extension>
-      </Extensions>
-    </Wrapper>
-  </Ad>
-  <Ad id="77631">
-    <Wrapper>
-      <AdSystem version="3.0">AdSpyglass</AdSystem>
-      <VASTAdTagURI><![CDATA[//s.pornoshub.site/api/users/15434947049357598011/77631]]></VASTAdTagURI>
-      <Extensions>
-        <Extension type="ASG">
-          <subid1></subid1>
-          <subid2></subid2>
-          <userReferrerCode>75494</userReferrerCode>
-          <zIndex>1000</zIndex>
-        </Extension>
-      </Extensions>
-    </Wrapper>
-  </Ad>
-  <Ad id="89363">
-    <Wrapper>
-      <AdSystem version="3.0">AdSpyglass</AdSystem>
-      <VASTAdTagURI><![CDATA[//s.pornoshub.site/api/users/15434947049357598011/89363]]></VASTAdTagURI>
-      <Extensions>
-        <Extension type="ASG">
-          <subid1></subid1>
-          <subid2></subid2>
-          <userReferrerCode>75494</userReferrerCode>
-          <zIndex>1000</zIndex>
-        </Extension>
-      </Extensions>
-    </Wrapper>
-  </Ad>
-  <Ad id="77180">
-    <Wrapper>
-      <AdSystem version="3.0">AdSpyglass</AdSystem>
-      <VASTAdTagURI><![CDATA[//s.pornoshub.site/api/users/15434947049357598011/77180]]></VASTAdTagURI>
-      <Extensions>
-        <Extension type="ASG">
-          <subid1></subid1>
-          <subid2></subid2>
-          <userReferrerCode>75494</userReferrerCode>
-          <zIndex>1000</zIndex>
-        </Extension>
-      </Extensions>
-    </Wrapper>
-  </Ad>
+<Ad id="2054025">
+<InLine>
+<AdSystem version="3.0">AdSpyglass</AdSystem>
+<AdTitle>AdSpyglass video ad</AdTitle>
+<Impression>
+<![CDATA[ //s.pornoshub.site/api/click/2713439763231621011 ]]>
+</Impression>
+<Error>
+<![CDATA[ //s.pornoshub.site/api/click/2713439763231621011?c=60&data[error]=[ERRORCODE] ]]>
+</Error>
+<Creatives>
+<Creative>
+<Linear skipoffset="00:00:00.000">
+<Duration>00:00:28.073</Duration>
+<TrackingEvents>
+<Tracking event="skip">
+<![CDATA[ //s.pornoshub.site/api/click/2713439763231621011?c=62& ]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[ //s.pornoshub.site/api/click/2713439763231621011?c=71& ]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[ //s.pornoshub.site/api/click/2713439763231621011?c=72& ]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[ //s.pornoshub.site/api/click/2713439763231621011?c=73& ]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[ //s.pornoshub.site/api/click/2713439763231621011?c=74& ]]>
+</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickTracking>
+<![CDATA[ //s.pornoshub.site/api/click/2713439763231621011?c=61& ]]>
+</ClickTracking>
+<ClickThrough>
+<![CDATA[ https://trrrmm.denebalgiedi.top/?pl=1lWgLwVoq0GHeLmbt3WUig&sub_id= ]]>
+</ClickThrough>
+</VideoClicks>
+<MediaFiles>
+<MediaFile delivery="progressive" type="video/mp4" width="1280" height="720">
+<![CDATA[ https://trafostatic.com/asset-62054025.mp4 ]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+<Extensions>
+<Extension type="ASG">
+<subid1/>
+<subid2/>
+<userReferrerCode>75494</userReferrerCode>
+<zIndex>1000</zIndex>
+</Extension>
+</Extensions>
+</InLine>
+</Ad>
 </VAST>
